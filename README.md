@@ -83,7 +83,7 @@ Kadang ngoding, kadang ngedesain, kadang juga menatap error sambil bertanya,
 </a>
 
 <a href="https://www.instagram.com/raihandrmptr_" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="45px"/>
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45px"/>
 </a>
 
 </div>
