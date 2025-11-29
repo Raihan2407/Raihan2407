@@ -11,12 +11,12 @@
 <br>
 
 <h1 align="center">👨‍💻 Raihan Darma Putra</h1>
-<p align="center">Mahasiswa Teknik Informatika • UI/UX • Frontend Developer</p>
+<p align="center">Mahasiswa Teknik Informatika</p>
 
 ---
 
 ## 🚀 Tentang Saya
-Halo! Saya **Raihan Darma Putra**, mahasiswa aktif **Teknik Informatika UMRAH** yang sedang mendalami dunia pengembangan web—mulai dari UI/UX, frontend development, hingga framework modern seperti React & Laravel.
+Halo! Saya **Raihan Darma Putra**, mahasiswa aktif **Teknik Informatika UMRAH** yang sedang mendalami dunia pengembangan web—mulai dari UI/UX hingga frontend modern dengan React & Tailwind.
 
 Saya suka bereksperimen, mencoba hal baru, dan mengerjakan proyek kecil yang perlahan berkembang.  
 Kadang ngoding, kadang ngedesain, kadang juga menatap error sambil bertanya,  
@@ -30,9 +30,6 @@ Kadang ngoding, kadang ngedesain, kadang juga menatap error sambil bertanya,
 ### 🌐 Web & Frontend  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 
-### ⚙ Backend & Framework  
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-
 ### 🎨 UI/UX Tools  
 <img src="https://skillicons.dev/icons?i=figma" />
 
@@ -44,10 +41,10 @@ Kadang ngoding, kadang ngedesain, kadang juga menatap error sambil bertanya,
 <div align="center">
 
 ### 📌 Current Focus
-💻 Mendalami **React, Laravel, Tailwind**  
-🎨 Belajar membuat UI yang relevan dan modern  
+💻 Mendalami **React & Tailwind**  
+🎨 Belajar membuat UI modern dan relevan  
 🚀 Bangun proyek kecil untuk portofolio  
-🧩 Suka eksplorasi teknologi baru dalam dunia IT  
+🧩 Suka eksplorasi teknologi baru  
 
 <br>
 
@@ -62,7 +59,6 @@ Kadang ngoding, kadang ngedesain, kadang juga menatap error sambil bertanya,
 
 ## 🎯 Fokus Saat Ini
 - Menguatkan kemampuan frontend (React, Tailwind)  
-- Memperdalam ekosistem Laravel  
 - Mendesain UI yang clean, modern, dan nyaman  
 - Menyusun portofolio web pribadi  
 
@@ -70,8 +66,8 @@ Kadang ngoding, kadang ngedesain, kadang juga menatap error sambil bertanya,
 
 ## 🎮 Fun Facts
 - Hobi **sepakbola**, **futsal**, dan gaming  
-- Selalu tertarik kalau lihat desain UI yang aesthetic  
-- Paling fokus ngoding kalau *no notif mode* 😅  
+- Suka banget lihat UI aesthetic  
+- Fokus ngoding kalau *no notif mode* 😅  
 
 ---
 
@@ -87,7 +83,6 @@ Kadang ngoding, kadang ngedesain, kadang juga menatap error sambil bertanya,
 </a>
 
 </div>
-
 
 ---
 
