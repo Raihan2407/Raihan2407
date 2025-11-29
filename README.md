@@ -1,3 +1,8 @@
+<!-- Animated Typing Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=9AE1FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+Raihan+Darma+Putra;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Let's+build+something+cool+!+%F0%9F%9A%80" />
+</div>
+
 <!-- Profile Banner -->
 <div align="center">
   <img src="https://img.shields.io/badge/Welcome_to_my_profile-0D1117?style=for-the-badge&logo=github&logoColor=white" />
@@ -6,15 +11,16 @@
 <br>
 
 <h1 align="center">👨‍💻 Raihan Darma Putra</h1>
-<p align="center">Mahasiswa Teknik Informatika</p>
+<p align="center">Mahasiswa Teknik Informatika • UI/UX • Frontend Developer</p>
 
 ---
 
 ## 🚀 Tentang Saya
-Halo! Saya **Raihan Darma Putra**, mahasiswa aktif **Teknik Informatika UMRAH** yang sedang mendalami dunia IT—mulai dari UI/UX, frontend development, hingga web modern berbasis framework populer.
+Halo! Saya **Raihan Darma Putra**, mahasiswa aktif **Teknik Informatika UMRAH** yang sedang mendalami dunia pengembangan web—mulai dari UI/UX, frontend development, hingga framework modern seperti React & Laravel.
 
-Saya suka mengeksplor, mencoba hal baru, dan membangun proyek kecil yang terus berkembang dari waktu ke waktu.  
-Kadang ngoding, kadang ngedesain, kadang juga cuma menatap kode sambil bertanya, *“Kenapa error-nya nggak bilang maunya apa?”* 😄
+Saya suka bereksperimen, mencoba hal baru, dan mengerjakan proyek kecil yang perlahan berkembang.  
+Kadang ngoding, kadang ngedesain, kadang juga menatap error sambil bertanya,  
+**“Kenapa sih dia nggak bilang maunya apa?”** 😄
 
 ---
 
@@ -38,12 +44,12 @@ Kadang ngoding, kadang ngedesain, kadang juga cuma menatap kode sambil bertanya,
 <div align="center">
 
 ### 📌 Current Focus
-💻 Belajar dan memperdalam **React, Laravel, Tailwind**  
-🎨 Menjelajahi konsep **UI/UX modern**  
-🚀 Membangun proyek kecil untuk portofolio  
-🧩 Suka ngulik hal baru dalam dunia IT  
+💻 Mendalami **React, Laravel, Tailwind**  
+🎨 Belajar membuat UI yang relevan dan modern  
+🚀 Bangun proyek kecil untuk portofolio  
+🧩 Suka eksplorasi teknologi baru dalam dunia IT  
 
----
+<br>
 
 ### 🕶️ Developer Vibes
 <img 
@@ -52,31 +58,36 @@ Kadang ngoding, kadang ngedesain, kadang juga cuma menatap kode sambil bertanya,
 
 </div>
 
-
 ---
 
 ## 🎯 Fokus Saat Ini
-- Meningkatkan kemampuan frontend (React, Tailwind)
-- Memperdalam Laravel lebih jauh
-- Mendesain UI yang clean, modern, dan enak dipakai
-- Membangun portofolio website pribadi
+- Menguatkan kemampuan frontend (React, Tailwind)  
+- Memperdalam ekosistem Laravel  
+- Mendesain UI yang clean, modern, dan nyaman  
+- Menyusun portofolio web pribadi  
 
 ---
 
 ## 🎮 Fun Facts
-- Penggemar **sepakbola**, **futsal**, dan game  
-- Selalu penasaran kalau nemu UI yang cantik  
-- Bisa fokus ngoding… kalau nggak diganggu notif 😅
+- Hobi **sepakbola**, **futsal**, dan gaming  
+- Selalu tertarik kalau lihat desain UI yang aesthetic  
+- Paling fokus ngoding kalau *no notif mode* 😅  
 
 ---
 
 ## 📬 Hubungi Saya
 <div align="left">
 
-- LinkedIn: **[Raihan Darma Putra](https://www.linkedin.com/in/raihan-darma-0a86b1386)**
-- Instagram: **[@raihandrmptr_](https://www.instagram.com/raihandrmptr_)**
+<a href="https://www.linkedin.com/in/raihan-darma-0a86b1386" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
+</a>
+
+<a href="https://www.instagram.com/raihandrmptr_" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="45px"/>
+</a>
 
 </div>
+
 
 ---
 
