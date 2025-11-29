@@ -1,62 +1,88 @@
-## Hello World! I'm Raihan Darma Putra 👋
+<!-- Profile Banner -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Welcome_to_my_profile-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
-Hi! Saya mahasiswa aktif UMRAH, program studi Teknik Informatika, yang lagi serius (dan kadang bercanda) ngulik dunia IT. Fokus di **UI/UX**, **Frontend**, dan mulai naik level ke **framework modern**.
+<br>
 
----
-
-### 🌙 About Me
-- 📚 Lagi mantengin materi IT dari pagi sampe “loh kok udah malam?”.
-- 🎨 Suka desain UI/UX dan ngembangin tampilan yang enak dilihat.
-- 💻 Ngoding frontend biar desainnya hidup.
-- 🛠️ Bikin project kecil-kecil dulu, yang penting jalan.
-- ⚽ Hobi: Sepakbola, futsal, game… dan memandang bug dengan tatapan penuh kecurigaan.
+<h1 align="center">👨‍💻 Raihan Darma Putra</h1>
+<p align="center">Mahasiswa Teknik Informatika</p>
 
 ---
 
-### 🧰 Tech & Tools
-<p>
-  <img src="https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI/UX-black?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+## 🚀 Tentang Saya
+Halo! Saya **Raihan Darma Putra**, mahasiswa aktif **Teknik Informatika UMRAH** yang sedang mendalami dunia IT—mulai dari UI/UX, frontend development, hingga web modern berbasis framework populer.
+
+Saya suka mengeksplor, mencoba hal baru, dan membangun proyek kecil yang terus berkembang dari waktu ke waktu.  
+Kadang ngoding, kadang ngedesain, kadang juga cuma menatap kode sambil bertanya, *“Kenapa error-nya nggak bilang maunya apa?”* 😄
 
 ---
 
-### 🧭 Currently Exploring
-- ✏️ UI/UX workflow & wireframing  
-- 🌐 Frontend modern: **React + Tailwind**  
-- 🧩 Backend basic: **Laravel**  
-- 🛠️ Web development yang rapi & responsive  
-- ⚡ Ngulik apapun yang bikin skill naik level  
+## 🧰 Tech Stack
+<div align="center">
+  
+### 🌐 Web & Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+
+### ⚙ Backend & Framework  
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+
+### 🎨 UI/UX Tools  
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=dark"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=dark"/>
-</p>
+## 🔥 Stats & Activity
+<div align="center">
+
+### 📌 Current Focus
+💻 Belajar dan memperdalam **React, Laravel, Tailwind**  
+🎨 Menjelajahi konsep **UI/UX modern**  
+🚀 Membangun proyek kecil untuk portofolio  
+🧩 Suka ngulik hal baru dalam dunia IT  
 
 ---
 
-### 🎮 Fun Side of Me
-> “Kalau coding error, istirahat dulu main game. Kalau game kalah, ya balik debugging. Circle of life versi programmer.”
+### 🕶️ Developer Vibes
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1a1a1a&height=70&section=footer&text=Stay%20Curious%20·%20Stay%20Creative%20·%20Stay%20Coding&fontSize=20&fontColor=9ae1ff" 
+/>
+
+</div>
+
 
 ---
 
-### 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/raihan-darma-0a86b1386?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/raihandrmptr_?igsh=MXB0Mmx2dXB2bjU0Mg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+## 🎯 Fokus Saat Ini
+- Meningkatkan kemampuan frontend (React, Tailwind)
+- Memperdalam Laravel lebih jauh
+- Mendesain UI yang clean, modern, dan enak dipakai
+- Membangun portofolio website pribadi
 
 ---
+
+## 🎮 Fun Facts
+- Penggemar **sepakbola**, **futsal**, dan game  
+- Selalu penasaran kalau nemu UI yang cantik  
+- Bisa fokus ngoding… kalau nggak diganggu notif 😅
+
+---
+
+## 📬 Hubungi Saya
+<div align="left">
+
+- LinkedIn: **[Raihan Darma Putra](https://www.linkedin.com/in/raihan-darma-0a86b1386)**
+- Instagram: **[@raihandrmptr_](https://www.instagram.com/raihandrmptr_)**
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🌑 “Write code. Design better. Stay curious.”  
+<img src="https://img.shields.io/badge/Made_with_passion-0D1117?style=for-the-badge&logo=heart&logoColor=red" />
+
+</div>
